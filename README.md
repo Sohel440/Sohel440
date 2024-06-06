@@ -1,6 +1,6 @@
 ## Hi there 👋
-##😄 I’m Sohel Mollick
-##🔭 I’m currently learning
+## 😄 I’m Sohel Mollick
+## 🔭 I’m currently learning
 ## 🔭 I’m a competitive programmer
 
 <!--
