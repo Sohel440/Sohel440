@@ -14,8 +14,7 @@
 - 📫 How to reach me **sbnammallick@gmail.com**
 
 <img align="center" src ="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8eaxcy99lwtbvi2pgdbz.gif"></img>
-<img src ="![image](https://github.com/user-attachments/assets/f601cefa-4b1d-40c4-8a68-bbfba9d6ff8f)
-"></img>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
