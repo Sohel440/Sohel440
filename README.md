@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohel440" alt="sohel440" /></a> </p>
 
+- 🔭 I’m currently working on **Different Algorithms**
+
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Competitive programming**
@@ -14,6 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sohel-mollick-0942b4236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sohel-mollick-0942b4236/" height="30" width="40" /></a>
+<a href="https://fb.com/sohel mollick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sohel mollick" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sohel440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sohel440" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mollickss1x4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mollickss1x4" height="30" width="40" /></a>
 </p>
 
