@@ -1,4 +1,4 @@
-<h1 align="center"> <img  src="[https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png](https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png)"> </img>Hi 👋, I'm SOHEL MOLLICK</h1>
+<h1 align="center"> <img  "> </img>Hi 👋, I'm SOHEL MOLLICK</h1>
 <h3 align="center">A passionate Software Engineering/Software development Engineering from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohel440&label=Profile%20views&color=0e75b6&style=flat" alt="sohel440" /> </p>
@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohel440&show_icons=true&locale=en" alt="sohel440" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohel440&" alt="sohel440" /></p>
+<img src ="![image](https://github.com/user-attachments/assets/f601cefa-4b1d-40c4-8a68-bbfba9d6ff8f)
+"></img>
