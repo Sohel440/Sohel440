@@ -1,4 +1,4 @@
-<h1 align="center"> <img style = "text-size : 1rem; "src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"> </img>Hi 👋, I'm SOHEL MOLLICK</h1>
+<h1 align="center"> <img  src="[https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png](https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png)"> </img>Hi 👋, I'm SOHEL MOLLICK</h1>
 <h3 align="center">A passionate Software Engineering/Software development Engineering from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohel440&label=Profile%20views&color=0e75b6&style=flat" alt="sohel440" /> </p>
