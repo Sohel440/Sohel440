@@ -17,7 +17,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sohel-mollick-0942b4236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sohel-mollick-0942b4236/" height="30" width="40" /></a>
 <a href="https://fb.com/sohel mollick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sohel mollick" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sohel440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sohel440" height="30" width="40" /></a>
+<a href="https://instagram.com/sohel_codx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sohel_codx" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sohel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sohel" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sohel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sohel" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sohel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohel" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mollickss1x4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mollickss1x4" height="30" width="40" /></a>
 </p>
 
