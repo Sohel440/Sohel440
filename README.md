@@ -1,7 +1,6 @@
 <div align="center">
   <h1>💫 Hi 👋, I'm Sohel Mollick</h1>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=caveat&weight=600&size=30&pause=1000&color=75EEB2&center=true&vCenter=true&width=435&lines=A+passionate+Software+Engineer;Full-stack+(MERN)+Developer;MERN+Stack+Enthusiastic)](https://git.io/typing-svg)
-
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=caveat&weight=600&size=30&pause=1000&color=75EEB2&width=435&lines=passionate+Software+Engineer;Full-stack+(MERN)+Developer;MERN+Stack+Enthusiastic" alt="Typing SVG" /></a>
 <br><br>Email Me 👉 ✉️ sbnammallick@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I’m currently working on: MERN Stack<br>🌱 I’m currently learning: MERN Stack(Advance)<br>💬 Ask me about:  React js , JS , Express Js , DSA<br>📫 How to reach me: sbnammallick@gmail.com<br>😄 Pronouns: Sohel Mollick<br>⚡ Fun fact: I Love to learn new Tech <br>🔍 Looking for opportunities to express my skills and grow! 
 
 
@@ -20,6 +19,12 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+
+
+## 🤖 Coding Profile:
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/SOHEL440/)  [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/alonenight786)
+
+-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sohel440&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
 
