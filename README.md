@@ -1,6 +1,6 @@
 <div align="center">
   <h1>💫 Hi 👋, I'm Sohel Mollick</h1>
-  <h2>A passionate Software Engineer || Full Stack Engineer </h2>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=caveat&weight=600&size=30&pause=1000&color=75EEB2&center=true&vCenter=true&width=435&lines=A+passionate+Software+Engineer;Full-stack+(MERN)+Developer;MERN+Stack+Enthusiastic)](https://git.io/typing-svg)
 
 <br><br>Email Me 👉 ✉️ sbnammallick@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I’m currently working on: MERN Stack<br>🌱 I’m currently learning: MERN Stack(Advance)<br>💬 Ask me about:  React js , JS , Express Js , DSA<br>📫 How to reach me: sbnammallick@gmail.com<br>😄 Pronouns: Sohel Mollick<br>⚡ Fun fact: I Love to learn new Tech <br>🔍 Looking for opportunities to express my skills and grow! 
 
