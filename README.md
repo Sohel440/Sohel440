@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India<br><br>Email Me 👉 ✉️ sbnammallick@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I’m currently working on: MERN Stack<br>🌱 I’m currently learning: MERN Stack(Advance)<br>💬 Ask me about:  React js , JS , Express Js , DSA<br>📫 How to reach me: sbnammallick@gmail.com<br>😄 Pronouns: Sohel Mollick<br>⚡ Fun fact: I Love to learn new Tech 
+### A passionate Software Engineer || Full Stack Engineer <br><br>Email Me 👉 ✉️ sbnammallick@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I’m currently working on: MERN Stack<br>🌱 I’m currently learning: MERN Stack(Advance)<br>💬 Ask me about:  React js , JS , Express Js , DSA<br>📫 How to reach me: sbnammallick@gmail.com<br>😄 Pronouns: Sohel Mollick<br>⚡ Fun fact: I Love to learn new Tech 
 
 
 ## 🌐 Socials:
